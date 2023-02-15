@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1676449234 source:c:\users\oland\onedrive\desktop\new folder\my_first_project\new advanced calc\advanced calc.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
